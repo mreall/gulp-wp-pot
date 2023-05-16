@@ -49,7 +49,7 @@
   "dependencies": {
     "plugin-error": "^1.0.1",
     "vinyl": "^2.2.1",
-    "wp-pot": "^1.10.0"
+    "wp-pot": "^1.10.2"
   },
   "volta": {
     "node": "14.19.1"
